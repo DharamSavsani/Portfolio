@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.f814edf8.css",
+    "main.js": "/Portfolio/static/js/main.967fc06e.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/About.svg": "/Portfolio/static/media/About.6900c1c89adad51dac37e026f6b384d3.svg",
+    "static/media/Services.svg": "/Portfolio/static/media/Services.301d9182f85951d734dd3f47785dc692.svg",
+    "static/media/Skills.svg": "/Portfolio/static/media/Skills.027ccd37f34c12efe16054bd7237ab6b.svg",
+    "static/media/Home.svg": "/Portfolio/static/media/Home.8d1fe2d556f405c9e416a7f816afe09e.svg",
+    "static/media/Github.svg": "/Portfolio/static/media/Github.b7f4e00ef96217e3e09edc9bc3ebdf26.svg",
+    "static/media/LinkedIn.svg": "/Portfolio/static/media/LinkedIn.9de1226c389f06b97fc3e928a0263715.svg",
+    "static/media/Twitter.svg": "/Portfolio/static/media/Twitter.025927e2d8d8d9ad67b5b28ffe36452c.svg",
+    "static/media/Figma.svg": "/Portfolio/static/media/Figma.f971e516f1e65144ed0fc11dc4d28c41.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.f814edf8.css.map": "/Portfolio/static/css/main.f814edf8.css.map",
+    "main.967fc06e.js.map": "/Portfolio/static/js/main.967fc06e.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f814edf8.css",
+    "static/js/main.967fc06e.js"
+  ]
+}
